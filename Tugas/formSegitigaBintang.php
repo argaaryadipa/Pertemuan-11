@@ -39,6 +39,7 @@
    <h2>Form Segitiga Bintang</h2> 
    <hr>
 
+   
    <form action="" method="post">
         <div class="container">
             <label for="">Tinggi Segitiga : </label>
